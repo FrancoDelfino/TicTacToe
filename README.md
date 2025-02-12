@@ -5,4 +5,4 @@ El clásico juego **TicTacToe** o **Tres en raya** realizado con **ReactJS** y *
 Para iniciar la aplicación, ejecuta el siguiente comando en tu terminal:
 
 ```sh
-        npm run dev
+  npm run dev
